@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="toppings">Aggiunte</string>
+    <string name="whipped_cream">Panna montata</string>
+    <string name="quantity">Quantità</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="order_summary">Sommario ordine</string>
+    <string name="order">Ordine</string>
+    <string name="chocolate">Cioccolato</string>
+    <string name="name">Nome</string>
+    <string name="email_subject">Ordine JustJava per %1$s</string>
+    <string name="email_body">Nome: %5$s\nAggiunta panna montata? %3$s\nAggiunta cioccolato? %4$s\nQuantità: %1$s\nTotale: $%2$s\nGrazie!</string>
+</resources>
