@@ -12,3 +12,6 @@ Casi risolti:
 
 TODO:
 1) sostituire i vari layout con le ConstraintLayout (vedere https://github.com/chrisbanes/cheesesquare)
+
+Progetti come esercizio:
+Your First App: https://review.udacity.com/#!/rubrics/133/view
